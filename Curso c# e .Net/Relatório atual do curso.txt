@@ -1,0 +1,4 @@
+No momento, iniciará á programção em c#
+após ter tido aulas sobre lógico de programção e pensamento computacional
+nessa paste será descrita conteúdos baseado
+em cada módulo.
